@@ -1,0 +1,2 @@
+# libft
+static library
