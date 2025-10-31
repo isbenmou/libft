@@ -1,2 +1,2 @@
 # libft
-static library
+coding 
